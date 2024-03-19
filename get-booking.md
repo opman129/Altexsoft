@@ -22,9 +22,7 @@ Additionally, this API sources extra content from other Sabre internal domains (
 
 Get Booking executes the following steps to display a booking:
 
-1. Retrieves reservation data by the given confirmationID (PNR locator and Order ID).
-2. Calls proper downline services to retrieve additional data.
-3. Maps retrieved data to a normalized data model.
+![Get Booking Steps](./assets/get-booking.png)
 
 ## Requests and Responses
 

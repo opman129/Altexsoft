@@ -2,7 +2,7 @@
 
 ## Description
 
-**Get Booking** provides a normalized view of reservations by combining both **Sabre Passenger Name Records (PNRs)** and **Sabre Orders**.
+The **[Get Booking](https://developer.sabre.com/docs/rest_apis/trip/orders/booking_management)** method provides a normalized view of reservations by combining both **Sabre Passenger Name Records (PNRs)** and **Sabre Orders**.
 
 This is achieved by executing internal calls to the PNR and Order domains, respectively, and then consolidating the information into a single normalized response.
 

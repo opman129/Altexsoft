@@ -12,21 +12,21 @@ assignment below.
 Please describe the **Get Booking** method for the Sabre Booking Management API by explaining the
 following:
 
-• what is this method?
-• reasons to use it
-• main steps the method performs (present in the form of a diagram)
-• basic requests and responses (display booking, display booking and validate surname,
+* What is this method?
+* reasons to use it
+* main steps the method performs (present in the form of a diagram)
+* basic requests and responses (display booking, display booking and validate surname,
 display selected booking elements)
-• examples of request and response parameters
-• possible errors returned by the method, their categories, and descriptions.
+* examples of request and response parameters
+* Possible errors returned by the method, including their categories and descriptions.
 
 ## What we’ll be looking for in the final document
 
-• simple, practical language; partially educational, partially informational style of writing;
-• clear structure of the document and accurate content;
-• proper formatting and layout for easy readability;
-• visual content: diagrams, flows, screenshots, samples of code, etc.;
-• a set of links referencing sources.
+* simple, practical language; partially educational, partially informational style of writing;
+* clear structure of the document and accurate content;
+* proper formatting and layout for easy readability;
+* visual content: diagrams, flows, screenshots, samples of code, etc.;
+* a set of links referencing sources.
 
 The target audience for the document is Software Developers with entry-level experience in the
 travel technology industry. While the final result should be a piece of technical writing, we expect it

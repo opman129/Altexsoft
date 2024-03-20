@@ -1115,7 +1115,7 @@ Here's a tabular documentation for the request parameters:
 
 ## Get Booking - Error List
 
-Below are all possible errors returned by the Get Booking endpoint:
+Below are all possible errors returned by the **Get Booking** endpoint:
 
 | Error Type             | Error Category     | Description                                                                                                                                                                                                                                                                                                                      |
 |------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
